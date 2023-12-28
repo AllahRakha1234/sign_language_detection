@@ -1,4 +1,4 @@
-# Sign Language Translator
+# Sign Language Detection
 
 A Deep Learning Application made with python to detect and recognize Sign Language gestures using "ASL" Standard then translates it into words.
 
