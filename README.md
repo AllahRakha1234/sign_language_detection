@@ -36,8 +36,10 @@ Used Libraries:
 
 ## How to Run
 
+ - The training part is done by running the notebook named sign_language_detection.ipynb in the kaggle.It will generate the model.
  - You Can run the Application by simply openning hand_detector module then press f5.
  - You can also open hand_detector using python IDLE then from run window choose run module
+
 
 
 ## Important Notes
